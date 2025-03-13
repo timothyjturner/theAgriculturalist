@@ -312,10 +312,32 @@ section.hero-banner-section .hero-banner-main .right-image img {
     justify-content: center;
     column-gap: 80px;
     row-gap: 20px;
-    max-width: max-content;
+    width: 100%;
     margin: 0 auto;
     background-color: #CCDDD9;
     padding: 20px 40px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100%;
+    max-width: 1224px;
+    display: flex;
+    gap: 100px;
+}
+.cta-left {
+    flex-grow: 1;
+}
+.cta-right {
+    flex-grow: 0;
+}
+
+.cta-left-text {
+    margin-left:auto;
+    margin-right: auto;
+}
+.terpli-ad {
+    max-width: 1224px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .cta-logo-img {
@@ -352,7 +374,7 @@ section.hero-banner-section .hero-banner-main .right-image img {
     font-size: 32px;
     line-height: 110%;
     color: #004D43;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
 }
 
 .cta-left-title * {
