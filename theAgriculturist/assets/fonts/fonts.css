@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'TeodorTRIALLightBF672198fb5c0ea';
+    src: url('TeodorTRIALLightBF672198fb5c0ea.eot');
+    src: url('TeodorTRIALLightBF672198fb5c0ea.eot') format('embedded-opentype'),
+         url('TeodorTRIALLightBF672198fb5c0ea.woff2') format('woff2'),
+         url('TeodorTRIALLightBF672198fb5c0ea.woff') format('woff'),
+         url('TeodorTRIALLightBF672198fb5c0ea.ttf') format('truetype'),
+         url('TeodorTRIALLightBF672198fb5c0ea.svg#TeodorTRIALLightBF672198fb5c0ea') format('svg');
+}
+
+@font-face {
+    font-family: 'TeodorTRIALRegularBF672198fb97abe';
+    src: url('TeodorTRIALRegularBF672198fb97abe.eot');
+    src: url('TeodorTRIALRegularBF672198fb97abe.eot') format('embedded-opentype'),
+         url('TeodorTRIALRegularBF672198fb97abe.woff2') format('woff2'),
+         url('TeodorTRIALRegularBF672198fb97abe.woff') format('woff'),
+         url('TeodorTRIALRegularBF672198fb97abe.ttf') format('truetype'),
+         url('TeodorTRIALRegularBF672198fb97abe.svg#TeodorTRIALRegularBF672198fb97abe') format('svg');
+}
+
+@font-face {
+    font-family: 'TeodorTRIALMediumBF672198fb97adf';
+    src: url('TeodorTRIALMediumBF672198fb97adf.eot');
+    src: url('TeodorTRIALMediumBF672198fb97adf.eot') format('embedded-opentype'),
+         url('TeodorTRIALMediumBF672198fb97adf.woff2') format('woff2'),
+         url('TeodorTRIALMediumBF672198fb97adf.woff') format('woff'),
+         url('TeodorTRIALMediumBF672198fb97adf.ttf') format('truetype'),
+         url('TeodorTRIALMediumBF672198fb97adf.svg#TeodorTRIALMediumBF672198fb97adf') format('svg');
+}
+
+@font-face {
+    font-family: 'TeodorTRIALBoldBF672198fba5748';
+    src: url('TeodorTRIALBoldBF672198fba5748.eot');
+    src: url('TeodorTRIALBoldBF672198fba5748.eot') format('embedded-opentype'),
+         url('TeodorTRIALBoldBF672198fba5748.woff2') format('woff2'),
+         url('TeodorTRIALBoldBF672198fba5748.woff') format('woff'),
+         url('TeodorTRIALBoldBF672198fba5748.ttf') format('truetype'),
+         url('TeodorTRIALBoldBF672198fba5748.svg#TeodorTRIALBoldBF672198fba5748') format('svg');
+}
